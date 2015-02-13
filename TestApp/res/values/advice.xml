@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="too_thin">Eat more！</string>
+    <string name="perfect">Good,keep it!</string>
+    <string name="too_fat">Do more excise!</string>
+</resources>
